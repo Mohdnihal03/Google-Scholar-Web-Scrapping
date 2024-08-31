@@ -1,5 +1,4 @@
-# Project Name
-
+# Google Scholar Scraper with Streamlit & tinkter interface
 ## Overview
 
 This project includes two primary components:
