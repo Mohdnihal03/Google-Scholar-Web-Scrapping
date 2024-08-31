@@ -1,0 +1,7 @@
+pandas
+tkinter
+requests
+streamlit
+beautifulsoup4  
+XlsxWriter 
+openpyxl  
